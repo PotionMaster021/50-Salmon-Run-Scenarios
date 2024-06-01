@@ -4,4 +4,4 @@ Save file including 50 Salmon Run Scenarios for Splatoon 3
 
 Save file and older scenarios should work on latest version but it may get updated in future to fix this or to add new ones.
 
-Credit: @nvnpogram for developing "Flexion Save Editor" https://flexlion.github.io/saveeditor.html
+Credit: @nvnprogram for developing "Flexion Save Editor" https://flexlion.github.io/saveeditor.html
