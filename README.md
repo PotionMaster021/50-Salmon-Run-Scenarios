@@ -1,4 +1,4 @@
-# 50-Salmon-Run-Scenarios-Splatoon-3-
+# 50-Salmon-Run-Scenarios
 Save file including 50 Salmon Run Scenarios for Splatoon 3 
 (USE ONLY WITH OFFLINE emuMMC TO PREVENT BAN)
 
