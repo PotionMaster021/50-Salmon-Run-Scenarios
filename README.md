@@ -1,6 +1,9 @@
 # 50-Salmon-Run-Scenarios
 Save file including 50 Salmon Run Scenarios for Splatoon 3 
-(USE ONLY WITH OFFLINE emuMMC TO PREVENT BAN)
+
+> [!IMPORTANT]\
+> **Save edited data is NOT online safe and can get your device banned.**\
+> **Please, open the `README.txt` file and read the warnings first.**
 
 Save file and older scenarios should work on latest version but it may get updated in future to fix this or to add new ones.
 
