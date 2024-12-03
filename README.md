@@ -3,6 +3,7 @@ Save file including 50 Salmon Run Scenarios for Splatoon 3
 
 Includes:
 35 Golden Rotation Scenarios (Only Grizzco Weapons)
+
 15 Random Rotation Scenarios (Random Weapons
 
 > [!IMPORTANT]\
